@@ -1,0 +1,2 @@
+# Telco-Customer-Churn-Using-Data-Mining-Techniques-Like-Exploratory-And-Predictive-Data-Analysis
+Analyzed the Telecom Churn Dataset using data mining techniques to identify key factors influencing customer churn. Developed predictive models to enhance retention strategies, reduce churn rates, and improve profitability. Insights from the analysis informed targeted retention plans, contributing to higher customer satisfaction and brand loyalty.
